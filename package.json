@@ -1,0 +1,22 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "An intro to node.js",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanthowright/liri-node-app.git"
+  },
+  "author": "Sean Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanthowright/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/seanthowright/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
